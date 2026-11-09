@@ -44,7 +44,7 @@
         "wk:page":"Santa_Ifigenia"
     },
     "wof:country":"HN",
-    "wof:geomhash":"ecf3f606336157003d3f7ba29ab0bc6e",
+    "wof:geomhash":"8cb15bbd04e322fb8deb76f0edc91188",
     "wof:hierarchy":[
         {
             "country_id":85632323,
@@ -67,5 +67,5 @@
     -89.01666999999998,
     14.48333
 ],
-  "geometry": {"coordinates":[-89.01666999999998,14.48333],"type":"Point"}
+  "geometry": {"coordinates":[-89.01667,14.48333],"type":"Point"}
 }

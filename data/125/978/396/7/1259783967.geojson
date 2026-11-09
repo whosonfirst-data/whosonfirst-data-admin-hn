@@ -68,7 +68,7 @@
         "wk:page":"El_Rosario%2C_Comayagua"
     },
     "wof:country":"HN",
-    "wof:geomhash":"4dedfc7fac3173b868e4dfbea1c807b2",
+    "wof:geomhash":"8625c81f042b1ff4461854d64b439567",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -94,5 +94,5 @@
     -87.73333000000002,
     14.58333
 ],
-  "geometry": {"coordinates":[-87.73333000000002,14.58333],"type":"Point"}
+  "geometry": {"coordinates":[-87.73333,14.58333],"type":"Point"}
 }

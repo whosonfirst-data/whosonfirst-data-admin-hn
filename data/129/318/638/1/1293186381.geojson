@@ -42,7 +42,7 @@
         "wk:page":"Cofradia"
     },
     "wof:country":"HN",
-    "wof:geomhash":"b4235d9675856747ab8977d9e13b402e",
+    "wof:geomhash":"4a0b7fe525358afe468df4c49697e828",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,5 +68,5 @@
     -87.10389,
     14.0
 ],
-  "geometry": {"coordinates":[-87.10389000000001,14.0],"type":"Point"}
+  "geometry": {"coordinates":[-87.10389,14],"type":"Point"}
 }

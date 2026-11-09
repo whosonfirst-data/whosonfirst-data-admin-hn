@@ -86,7 +86,7 @@
     },
     "wof:country":"HN",
     "wof:created":1459010082,
-    "wof:geomhash":"07a238231d337c394e02ed55d8d496a1",
+    "wof:geomhash":"5faf0ae26743b6d401b886c689c13dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -114,5 +114,5 @@
     -89.0,
     14.48333
 ],
-  "geometry": {"coordinates":[-89.0,14.48333],"type":"Point"}
+  "geometry": {"coordinates":[-89,14.48333],"type":"Point"}
 }

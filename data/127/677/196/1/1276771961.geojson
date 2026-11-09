@@ -41,7 +41,7 @@
         "gn:id":3607347
     },
     "wof:country":"HN",
-    "wof:geomhash":"233409c1a26033f62e58b3aff67e2037",
+    "wof:geomhash":"2a0e711601d39c2f7a52bc52b8205334",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -87.22471999999998,
     13.55861
 ],
-  "geometry": {"coordinates":[-87.22471999999998,13.55861],"type":"Point"}
+  "geometry": {"coordinates":[-87.22472,13.55861],"type":"Point"}
 }
