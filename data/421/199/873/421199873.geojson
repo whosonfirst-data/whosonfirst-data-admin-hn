@@ -154,12 +154,6 @@
     "name:war_x_preferred":[
         "San Pedro"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u4f69\u5fb7\u7f57\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u4f69\u5fb7\u7f85\u6cb3"
-    ],
     "qs:gn_country":"HN",
     "qs:gn_fcode":"ADM2",
     "qs:gn_id":3601815,
@@ -222,7 +216,7 @@
         }
     ],
     "wof:id":421199873,
-    "wof:lastmodified":1695886692,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Pedro",
     "wof:parent_id":85671911,
     "wof:placetype":"county",
