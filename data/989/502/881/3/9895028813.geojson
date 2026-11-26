@@ -1,0 +1,74 @@
+{
+  "id": 9895028813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.35061,14.14956,-87.35061,14.14956",
+    "geom:latitude":14.14956,
+    "geom:longitude":-87.35061,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12536259: name \"La Lagunita N\u00famero Uno\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12536259"
+        },
+        {
+            "citation":"GeoNames populated place 12536259: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12536259"
+        },
+        {
+            "citation":"GeoNames populated place 12536259: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12536259"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108701727 (Tegucigalpa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671863,
+        102191575,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12536259
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"43ab8ae31dd9c626e06f6a4c1168d684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":9895028813,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":9895028813,
+    "wof:lastmodified":1795735083,
+    "wof:name":"La Lagunita N\u00famero Uno",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.35061,
+    14.14956,
+    -87.35061,
+    14.14956
+],
+  "geometry": {"coordinates":[-87.35061,14.14956],"type":"Point"}
+}

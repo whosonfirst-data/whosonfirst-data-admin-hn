@@ -1,0 +1,74 @@
+{
+  "id": 9895028866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.11917,14.09982,-87.11917,14.09982",
+    "geom:latitude":14.09982,
+    "geom:longitude":-87.11917,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12536324: name \"Ocanto\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12536324"
+        },
+        {
+            "citation":"GeoNames populated place 12536324: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12536324"
+        },
+        {
+            "citation":"GeoNames populated place 12536324: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12536324"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421170947 (Santa Lucia), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671863,
+        102191575,
+        421170947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12536324
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0940655f09d36cd49a3674cc8cc72b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421170947,
+            "locality_id":9895028866,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":9895028866,
+    "wof:lastmodified":1795735083,
+    "wof:name":"Ocanto",
+    "wof:parent_id":421170947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.11917,
+    14.09982,
+    -87.11917,
+    14.09982
+],
+  "geometry": {"coordinates":[-87.11917,14.09982],"type":"Point"}
+}

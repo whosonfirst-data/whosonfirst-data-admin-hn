@@ -1,0 +1,74 @@
+{
+  "id": 9895028817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.3461,14.16036,-87.3461,14.16036",
+    "geom:latitude":14.16036,
+    "geom:longitude":-87.3461,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12536264: name \"El Macuelizo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12536264"
+        },
+        {
+            "citation":"GeoNames populated place 12536264: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12536264"
+        },
+        {
+            "citation":"GeoNames populated place 12536264: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12536264"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108701727 (Tegucigalpa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671863,
+        102191575,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12536264
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"20a224ceae98faf7ce1d01c7745051b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":9895028817,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":9895028817,
+    "wof:lastmodified":1795735083,
+    "wof:name":"El Macuelizo",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.3461,
+    14.16036,
+    -87.3461,
+    14.16036
+],
+  "geometry": {"coordinates":[-87.3461,14.16036],"type":"Point"}
+}
