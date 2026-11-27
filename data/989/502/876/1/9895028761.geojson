@@ -1,0 +1,74 @@
+{
+  "id": 9895028761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.81667,14.28333,-88.81667,14.28333",
+    "geom:latitude":14.28333,
+    "geom:longitude":-88.81667,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3606780: name \"Las Flores\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3606780"
+        },
+        {
+            "citation":"GeoNames populated place 3606780: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3606780"
+        },
+        {
+            "citation":"GeoNames populated place 3606780: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3606780"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421183303 (Guarita), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671915,
+        102191575,
+        421183303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3606780
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"1110d77d8c5c96311e7f4b652e2172f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421183303,
+            "locality_id":9895028761,
+            "region_id":85671915
+        }
+    ],
+    "wof:id":9895028761,
+    "wof:lastmodified":1795735083,
+    "wof:name":"Las Flores",
+    "wof:parent_id":421183303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.81667,
+    14.28333,
+    -88.81667,
+    14.28333
+],
+  "geometry": {"coordinates":[-88.81667,14.28333],"type":"Point"}
+}

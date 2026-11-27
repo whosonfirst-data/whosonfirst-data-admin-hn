@@ -1,0 +1,74 @@
+{
+  "id": 9895028888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.06446,14.08414,-87.06446,14.08414",
+    "geom:latitude":14.08414,
+    "geom:longitude":-87.06446,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13452304: name \"San Juan del Rancho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13452304"
+        },
+        {
+            "citation":"GeoNames populated place 13452304: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13452304"
+        },
+        {
+            "citation":"GeoNames populated place 13452304: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13452304"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108701727 (Tegucigalpa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671863,
+        102191575,
+        1108701727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13452304
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"30e0f4801fa8ad64ef5597950250f189",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":1108701727,
+            "locality_id":9895028888,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":9895028888,
+    "wof:lastmodified":1795735083,
+    "wof:name":"San Juan del Rancho",
+    "wof:parent_id":1108701727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.06446,
+    14.08414,
+    -87.06446,
+    14.08414
+],
+  "geometry": {"coordinates":[-87.06446,14.08414],"type":"Point"}
+}

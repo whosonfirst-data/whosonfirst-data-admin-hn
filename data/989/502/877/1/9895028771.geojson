@@ -1,0 +1,74 @@
+{
+  "id": 9895028771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.02954,15.26035,-88.02954,15.26035",
+    "geom:latitude":15.26035,
+    "geom:longitude":-88.02954,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12266975: name \"El Perico\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12266975"
+        },
+        {
+            "citation":"GeoNames populated place 12266975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12266975"
+        },
+        {
+            "citation":"GeoNames populated place 12266975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12266975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421184465 (Villa Nueva), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671893,
+        102191575,
+        421184465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12266975
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"c1978863d7a872b74c16eba9236d4ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421184465,
+            "locality_id":9895028771,
+            "region_id":85671893
+        }
+    ],
+    "wof:id":9895028771,
+    "wof:lastmodified":1795735083,
+    "wof:name":"El Perico",
+    "wof:parent_id":421184465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.02954,
+    15.26035,
+    -88.02954,
+    15.26035
+],
+  "geometry": {"coordinates":[-88.02954,15.26035],"type":"Point"}
+}

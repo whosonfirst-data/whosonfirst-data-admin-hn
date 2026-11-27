@@ -1,0 +1,73 @@
+{
+  "id": 9895028877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-85.8227,16.50423,-85.8227,16.50423",
+    "geom:latitude":16.50423,
+    "geom:longitude":-85.8227,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13118668: name \"Noland Bight\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13118668"
+        },
+        {
+            "citation":"GeoNames populated place 13118668: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13118668"
+        },
+        {
+            "citation":"GeoNames populated place 13118668: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13118668"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421188765 (Guanaja), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671869,
+        102191575,
+        421188765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13118668
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"0a6d21faf012233708f0a3030f90e88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "county_id":421188765,
+            "locality_id":9895028877,
+            "region_id":85671869
+        }
+    ],
+    "wof:id":9895028877,
+    "wof:lastmodified":1795735083,
+    "wof:name":"Noland Bight",
+    "wof:parent_id":421188765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.8227,
+    16.50423,
+    -85.8227,
+    16.50423
+],
+  "geometry": {"coordinates":[-85.8227,16.50423],"type":"Point"}
+}

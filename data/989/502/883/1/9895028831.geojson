@@ -1,0 +1,74 @@
+{
+  "id": 9895028831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.04109,14.18209,-87.04109,14.18209",
+    "geom:latitude":14.18209,
+    "geom:longitude":-87.04109,
+    "iso:country":"HN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12536289: name \"El Socorro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12536289"
+        },
+        {
+            "citation":"GeoNames populated place 12536289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12536289"
+        },
+        {
+            "citation":"GeoNames populated place 12536289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12536289"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421204281 (Valle de Angeles), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632323,
+        85671863,
+        102191575,
+        421204281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12536289
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"ee3482e229e4a9ac99d4d4e36910971f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421204281,
+            "locality_id":9895028831,
+            "region_id":85671863
+        }
+    ],
+    "wof:id":9895028831,
+    "wof:lastmodified":1795735083,
+    "wof:name":"El Socorro",
+    "wof:parent_id":421204281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-hn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.04109,
+    14.18209,
+    -87.04109,
+    14.18209
+],
+  "geometry": {"coordinates":[-87.04109,14.18209],"type":"Point"}
+}
